@@ -1,0 +1,9 @@
+videos/
+*.webm
+*.mp4
+*.mkv
+*.wav
+*.bin
+*.pt
+venv/
+__pycache__/

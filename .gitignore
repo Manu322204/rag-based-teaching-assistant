@@ -7,3 +7,10 @@ videos/
 *.pt
 venv/
 __pycache__/
+# Audio files
+audios/*.mp3
+audios/*.wav
+audios/*.m4a
+
+# Virtual environment
+ragenv/
